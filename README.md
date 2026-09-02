@@ -11,3 +11,7 @@ A showcase of my continuous learning journey, featuring credentials in artificia
 ![AI Aware Certificate](ROHAN%20MOHANTY_AI_AWARE_CERTIFICATE.png)
 
 ---
+
+![YUVA AI Certificate](ROHAN%20MOHANTY%20YUVA%20AI_Certificate.png)
+
+---
