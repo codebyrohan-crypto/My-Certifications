@@ -12,6 +12,10 @@ A showcase of my continuous learning journey, featuring credentials in artificia
 
 ---
 
+### 🤖 2. YUVA AI Certificate
+* **Issued to:** Rohan Mohanty
+* **Topic:** Yuva AI for All
+
 ![YUVA AI Certificate](ROHAN%20MOHANTY%20YUVA%20AI_Certificate.png)
 
 ---
